@@ -12,5 +12,9 @@ the files in https://github.com/kloge/The-English-Open-Word-List
     - `site_rec.py` did the double-checking
     - `site_names.txt` was the list of [SE site names](https://stackexchange.com/sites#name) I used.
     - `siterec_part1.txt` and `siterec_part2.txt` are the files I was checking
+- `periodic_seq` was used to calculate the sequences for
+[Nickname the number sequence](https://puzzling.stackexchange.com/questions/138189/nickname-the-number-sequence)
+    - `symbol_overlap.py` outputs the sequences
+    - `elements.tsv` is the raw data about chemical elements
 
 All scripts are 100% human-written.
