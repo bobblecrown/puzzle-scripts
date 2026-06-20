@@ -7,6 +7,10 @@ Files:
 the files in https://github.com/kloge/The-English-Open-Word-List
 - `employee_words.py` was used to find words that would fit 
 [What is an Employee Word™?](https://puzzling.stackexchange.com/questions/137333/what-is-an-employee-word)
+- `fib_trees` was used to encode & decode for
+[Are my trees dead?](https://puzzling.stackexchange.com/questions/138245/are-my-trees-dead)
+    - `check.txt` is a transcription of the encoding
+    - `fib_nums.py` outputs how to encode each number & decodes `check.txt`
 - `site_rec` was used to double-check
 [Where on Stack Exchange should I ask this?](https://puzzling.stackexchange.com/questions/137839/where-on-stack-exchange-should-i-ask-this)
     - `site_rec.py` did the double-checking
