@@ -11,6 +11,8 @@ the files in https://github.com/kloge/The-English-Open-Word-List
 [Are my trees dead?](https://puzzling.stackexchange.com/questions/138245/are-my-trees-dead)
     - `check.txt` is a transcription of the encoding
     - `fib_nums.py` outputs how to encode each number & decodes `check.txt`
+- `find_liar_expr.py` was used to construct and check
+[Make 1-10 with 1, 2, 3, 4... but the 1s are lying!](https://puzzling.stackexchange.com/questions/138607/make-1-10-with-1-2-3-4-but-the-1s-are-lying)
 - `site_rec` was used to double-check
 [Where on Stack Exchange should I ask this?](https://puzzling.stackexchange.com/questions/137839/where-on-stack-exchange-should-i-ask-this)
     - `site_rec.py` did the double-checking
